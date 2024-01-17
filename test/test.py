@@ -1,0 +1,1 @@
+# I'm here to demonstrate that the merger is able to skip non-Word documents. 
